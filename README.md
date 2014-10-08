@@ -3,6 +3,16 @@ address-book-tutorial
 
 Super Duper Ultra Basic Introduction to Web Dev
 
+CHECKPOINT 3 - JavaScript
+-get familiar with jQuery
+-add rows to table when button is clicked
+-delete row when link is clicked
+
+CHECKPOINT 2 - CSS
+-add margins
+-left align table headers
+-widen columns
+
 CHECKPOINT 1 - HTML
 -make form
 -make table
