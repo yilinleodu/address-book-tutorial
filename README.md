@@ -3,6 +3,13 @@ address-book-tutorial
 
 Super Duper Ultra Basic Introduction to Web Dev
 
+CHECKPOINT 4 - SQL
+-create database
+-create root user
+-create table/schema
+-create columns
+-add and test insertion
+
 MAKE YOUR PULL REQUEST NOW
 
 CHECKPOINT 3 - JavaScript
