@@ -3,6 +3,8 @@ address-book-tutorial
 
 Super Duper Ultra Basic Introduction to Web Dev
 
+MAKE YOUR PULL REQUEST NOW
+
 CHECKPOINT 3 - JavaScript
 -get familiar with jQuery
 -add rows to table when button is clicked
